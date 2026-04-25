@@ -11,25 +11,25 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Can an Employer See a Dismissed Bankruptcy?</title>
-<meta content="A dismissed bankruptcy is a public record. Employers may see it on background checks, but Section 525 protects against employment discrimin..." name="description"/>
-<link href="https://dismissedbankruptcy.org/employer-see.html" rel="canonical"/>
+<title>Protecting Yourself After Bankruptcy Dismissal</title>
+<meta content="After your bankruptcy is dismissed, creditors resume collection immediately. Learn what steps to take to protect yourself and your assets." name="description"/>
+<link href="https://dismissedbankruptcy.org/protect-yourself.html" rel="canonical"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
-<meta content="Can an Employer See a Dismissed Bankruptcy?" property="og:title"/>
-<meta content="A dismissed bankruptcy is a public record. Employers may see it on background checks, but Section 525 protects against employment discrimin..." property="og:description"/>
+<meta content="Protecting Yourself After Bankruptcy Dismissal" property="og:title"/>
+<meta content="After your bankruptcy is dismissed, creditors resume collection immediately. Learn what steps to take to protect yourself and your assets." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://dismissedbankruptcy.org/employer-see.html" property="og:url"/>
+<meta content="https://dismissedbankruptcy.org/protect-yourself.html" property="og:url"/>
 <meta content="dismissedbankruptcy.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Can an Employer See a Dismissed Bankruptcy?" name="twitter:title"/>
-<meta content="A dismissed bankruptcy is a public record. Employers may see it on background checks, but Section 525 protects against employment discrimin..." name="twitter:description"/>
+<meta content="Protecting Yourself After Bankruptcy Dismissal" name="twitter:title"/>
+<meta content="After your bankruptcy is dismissed, creditors resume collection immediately. Learn what steps to take to protect yourself and your assets." name="twitter:description"/>
 <meta content="https://dismissedbankruptcy.org/og-image.svg" property="og:image"/>
 <meta content="https://dismissedbankruptcy.org/og-image.svg" name="twitter:image"/>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://dismissedbankruptcy.org/"},{"@type":"ListItem","position":2,"name":"Can an Employer See a Dismissed Bankruptcy?","item":"https://dismissedbankruptcy.org/employer-see.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://dismissedbankruptcy.org/"},{"@type":"ListItem","position":2,"name":"Protecting Yourself After Bankruptcy Dismissal","item":"https://dismissedbankruptcy.org/protect-yourself.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -37,8 +37,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Can an Employer See a Dismissed Bankruptcy?",
-      "description": "A dismissed bankruptcy is a public record. Employers may see it on background checks, but Section 525 protects against employment discrimination based on bankru",
+      "headline": "Protecting Yourself After Bankruptcy Dismissal",
+      "description": "After your bankruptcy is dismissed, creditors resume collection immediately. Learn what steps to take to protect yourself and your assets.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -50,12 +50,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://dismissedbankruptcy.org/employer-see.html"
+      "mainEntityOfPage": "https://dismissedbankruptcy.org/protect-yourself.html"
+    },
+    {
+      "@type": "HowTo",
+      "name": "Protecting Yourself After Bankruptcy Dismissal",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');\n\n\nProtecting Yourself After Bankruptcy Dismissal\n\n\n\n\n\n\n\n\n\n\n\n\n{\"@co"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Proceed with foreclosure: If your home was in foreclosure, the bank can pick up where it left off."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Repossess vehicles: Auto lenders can repossess your vehicle if you are in default."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "File or continue lawsuits: Creditors can sue you or continue lawsuits that were paused by the stay."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Send to collections: Collection calls and letters resume."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Contact your most aggressive creditors: If you have a mortgage in default or a car payment behind, reach out immediately to discuss workout options, forbearance, or repayment plans."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Review your budget: If the bankruptcy was dismissed for failure to make plan payments, identify why and whether a modified plan might work."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Consider refiling: If the 109(g) bar does not apply, you may be able to refile immediately. But be aware of the reduced stay protections under Section 362(c). See our waiting period guide."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Explore non-bankruptcy options: Debt management plans, debt settlement, or negotiated workouts may be appropriate depending on your situation."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Protect exempt property: Even outside of bankruptcy, certain property may be protected from creditors under state exemption laws (homestead, retirement accounts, etc.)."
+        }
+      ]
     },
     {
       "@type": "WebPage",
-      "name": "Can an Employer See a Dismissed Bankruptcy?",
-      "url": "https://dismissedbankruptcy.org/employer-see.html",
+      "name": "Protecting Yourself After Bankruptcy Dismissal",
+      "url": "https://dismissedbankruptcy.org/protect-yourself.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -127,31 +183,10 @@ footer .links a{margin:0 0.75rem}
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Can an Employer See a Dismissed Bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury."}}, {"@type": "Question", "name": "What debts are discharged in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury."}}, {"@type": "Question", "name": "How long does it take to get a bankruptcy discharge?", "acceptedAnswer": {"@type": "Answer", "text": "In Chapter 7, the discharge typically arrives about 60 days after the 341 meeting, or roughly 3-4 months after filing. In Chapter 13, the discharge comes after completing all plan payments, which takes 3-5 years."}}, {"@type": "Question", "name": "Can a creditor object to my discharge?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Creditors can file an adversary proceeding arguing that a specific debt should not be discharged due to fraud, misrepresentation, or other exceptions under 11 U.S.C. Section 523. They can also object to your entire discharge under Section 727 for misconduct like hiding assets."}}, {"@type": "Question", "name": "What is the difference between a discharge and a dismissal?", "acceptedAnswer": {"@type": "Answer", "text": "A discharge eliminates your personal liability for qualifying debts permanently. A dismissal ends your bankruptcy case without eliminating any debts, as if you never filed. A dismissal may also impose a waiting period before you can file again."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What debts are discharged in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury."}}, {"@type": "Question", "name": "How long does it take to get a bankruptcy discharge?", "acceptedAnswer": {"@type": "Answer", "text": "In Chapter 7, the discharge typically arrives about 60 days after the 341 meeting, or roughly 3-4 months after filing. In Chapter 13, the discharge comes after completing all plan payments, which takes 3-5 years."}}, {"@type": "Question", "name": "Can a creditor object to my discharge?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Creditors can file an adversary proceeding arguing that a specific debt should not be discharged due to fraud, misrepresentation, or other exceptions under 11 U.S.C. Section 523. They can also object to your entire discharge under Section 727 for misconduct like hiding assets."}}, {"@type": "Question", "name": "What is the difference between a discharge and a dismissal?", "acceptedAnswer": {"@type": "Answer", "text": "A discharge eliminates your personal liability for qualifying debts permanently. A dismissal ends your bankruptcy case without eliminating any debts, as if you never filed. A dismissal may also impose a waiting period before you can file again."}}, {"@type": "Question", "name": "Can my bankruptcy discharge be revoked?", "acceptedAnswer": {"@type": "Answer", "text": "In rare cases, yes. A discharge can be revoked within one year if the debtor committed fraud, failed to disclose assets, or refused to obey a court order. Revocation requires a court proceeding initiated by the trustee, a creditor, or the U.S. Trustee."}}]}
 </script>
-<link href="https://dismissedbankruptcy.org/employer-see.html" hreflang="en" rel="alternate"/>
-<link href="https://dismissedbankruptcy.org/employer-see-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://dismissedbankruptcy.org/protect-yourself.html" hreflang="en" rel="alternate"/>
+<link href="https://dismissedbankruptcy.org/protect-yourself-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -178,44 +213,38 @@ footer .links a{margin:0 0.75rem}
 </span>
 </nav>
 <header role="banner">
-<h1>Can an Employer See a <span class="accent">Dismissed</span> Bankruptcy?</h1>
-<p class="subtitle">Public records, background checks, and your rights under Section 525</p>
+<h1>Protecting Yourself After <span class="accent">Bankruptcy Dismissal</span></h1>
+<p class="subtitle">What creditors can do after dismissal and how to respond</p>
 </header>
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://dismissedbankruptcy.org/">Home</a><span class="separator">›</span><span>Can an Employer See a Dismissed Bankruptcy?</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://dismissedbankruptcy.org/">Home</a><span class="separator">›</span><span>Protecting Yourself After Bankruptcy Dismissal</span></nav>
 <article id="main">
-<h2>Bankruptcy Is a Public Record</h2>
-<p>All bankruptcy filings - whether discharged, dismissed, or still pending - are public records accessible through the federal court system (<a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a>) and various background check services. A dismissed bankruptcy is no exception. It does not disappear from the public record just because the case did not result in a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
-<h2>Background Checks</h2>
-<p>Most employer background checks include a public records search that can surface bankruptcy filings. The dismissed bankruptcy will typically appear as:</p>
+<h2>The Stay Is Gone</h2>
+<p>When your bankruptcy case is dismissed, the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a> terminates immediately. This means all the protections you had during the case - against <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a>, foreclosure, repossession, and lawsuits - are gone. Creditors can resume collection activity the moment the dismissal order is entered.</p>
+<h2>What Creditors Can Do After Dismissal</h2>
 <ul>
-<li>The date you filed</li>
-<li>The chapter you filed under (7, 13, etc.)</li>
-<li>The court where the case was filed</li>
-<li>The disposition: "dismissed"</li>
+<li><strong>Resume <a href="https://stopgarnishment.org/" title="wage garnishment">wage garnishment</a>:</strong> If garnishment was in place before filing, creditors can restart it. If a judgment was entered but garnishment had not started, they can initiate it.</li>
+<li><strong>Proceed with foreclosure:</strong> If your home was in foreclosure, the bank can pick up where it left off.</li>
+<li><strong>Repossess vehicles:</strong> Auto lenders can repossess your vehicle if you are in default.</li>
+<li><strong>File or continue lawsuits:</strong> Creditors can sue you or continue lawsuits that were paused by the stay.</li>
+<li><strong>Send to collections:</strong> Collection calls and letters resume.</li>
 </ul>
-<p>Background check companies pull from PACER, state court records, and credit bureau data. A dismissed bankruptcy stays on your credit report for 7-10 years from the filing date (<a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> dismissed: 7 years; <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> dismissed: 10 years).</p>
-<h2>Section 525: Anti-Discrimination Protection</h2>
-<p>11 U.S.C. Section 525 prohibits certain forms of employment discrimination based on bankruptcy:</p>
-<h3>Government Employers (Section 525(a))</h3>
-<p>A governmental unit may not deny employment to, terminate the employment of, or discriminate with respect to employment against a person solely because that person filed bankruptcy or failed to pay a dischargeable debt. This is a strong protection with clear statutory language.</p>
-<h3>Private Employers (Section 525(b))</h3>
-<p>A private employer may not terminate the employment of an individual solely because that individual filed bankruptcy. However, courts have split on whether Section 525(b) also prohibits private employers from <em>refusing to hire</em> someone based on a bankruptcy filing. Several circuit courts have held that the statute only covers termination, not hiring decisions, for private employers.</p>
-<div class="callout">
-<strong>Practical reality:</strong> While Section 525 offers some protection, employers rarely state bankruptcy as the reason for an adverse decision. If you suspect discrimination, document everything and consult an employment attorney.
+<h2>Immediate Steps to Take</h2>
+<ol>
+<li><strong>Contact your most aggressive creditors:</strong> If you have a mortgage in default or a car payment behind, reach out immediately to discuss workout options, forbearance, or repayment plans.</li>
+<li><strong>Review your budget:</strong> If the bankruptcy was dismissed for failure to make plan payments, identify why and whether a modified plan might work.</li>
+<li><strong>Consider refiling:</strong> If the <a href="https://109g.org/" title="Section 109(g)">109(g)</a> bar does not apply, you may be able to <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> immediately. But be aware of the reduced stay protections under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(c). See our <a href="/waiting-period.html">waiting period guide</a>.</li>
+<li><strong>Explore non-bankruptcy options:</strong> Debt management plans, debt settlement, or negotiated workouts may be appropriate depending on your situation.</li>
+<li><strong>Protect <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exempt property</a>:</strong> Even outside of bankruptcy, certain property may be protected from creditors under state exemption laws (homestead, retirement accounts, etc.).</li>
+</ol>
+<div class="callout green">
+<strong>Free eligibility check:</strong> Use the <a href="https://1328f.com/check.html">discharge eligibility screener at 1328f.com</a> to verify whether timing bars affect your ability to <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> and receive a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.
 </div>
-<h2>Tips for Job Seekers</h2>
-<ul>
-<li><strong>Know what shows up:</strong> Pull your own credit report and background check before applying so you know what employers will see</li>
-<li><strong>Distinguish dismissed from discharged:</strong> A dismissed bankruptcy may actually look <em>worse</em> to some employers because it suggests the filing was unsuccessful, while a discharge suggests you addressed your debts</li>
-<li><strong>Be prepared to explain:</strong> If asked, a brief honest explanation is better than evasion. Most employers care about current financial responsibility, not past difficulties</li>
-<li><strong>Government jobs:</strong> You have the strongest protection. A dismissed or discharged bankruptcy cannot legally be the basis for denial of government employment</li>
-</ul>
 <h2>Cross-References</h2>
 <ul>
-<li><a href="/employer-impact.html">Employer impact overview</a></li>
-<li><a href="/dismissed-vs-discharged.html">Dismissed vs discharged</a> - Understanding the difference</li>
-<li><a href="https://109g.org">109g.org</a> - Filing eligibility after dismissal</li>
-<li><a href="https://canifileagain.org">canifileagain.org</a> - Refiling options</li>
+<li><a href="/what-happens-next.html">What happens after dismissal</a></li>
+<li><a href="/can-i-refile.html">Can I refile?</a></li>
+<li><a href="/waiting-period.html">Waiting period after dismissal</a></li>
+<li><a href="https://dismissalrate.org/recovery-options.html">dismissalrate.org - Recovery options</a></li>
 </ul>
 </article>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -329,7 +358,6 @@ footer .links a{margin:0 0.75rem}
 <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=dismissedbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://relieffromstay.org/?utm_source=dismissedbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Relief from Automatic Stay</a> <span style="color:#7d8590;font-size:0.8rem">-- relieffromstay.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=dismissedbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=dismissedbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
 </ul>
 </div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>

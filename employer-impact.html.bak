@@ -18,17 +18,17 @@
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>My Bankruptcy Was Dismissed - Can I File Again?</title>
-<meta content="Your bankruptcy was dismissed and you want to refile. Learn about the 180-day bar under Section 109(g), reduced stay protection under 362(c..." name="description"/>
-<link href="https://dismissedbankruptcy.org/can-i-refile.html" rel="canonical"/>
-<meta content="My Bankruptcy Was Dismissed - Can I File Again?" property="og:title"/>
-<meta content="Your bankruptcy was dismissed and you want to refile. Learn about the 180-day bar under Section 109(g), reduced stay protection under 362(c..." property="og:description"/>
+<title>Does a Dismissed Bankruptcy Affect My Job?</title>
+<meta content="Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C." name="description"/>
+<link href="https://dismissedbankruptcy.org/employer-impact.html" rel="canonical"/>
+<meta content="Does a Dismissed Bankruptcy Affect My Job?" property="og:title"/>
+<meta content="Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://dismissedbankruptcy.org/can-i-refile.html" property="og:url"/>
+<meta content="https://dismissedbankruptcy.org/employer-impact.html" property="og:url"/>
 <meta content="BankruptcyDismissed.com" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="My Bankruptcy Was Dismissed - Can I File Again?" name="twitter:title"/>
-<meta content="Your bankruptcy was dismissed and you want to refile. Learn about the 180-day bar under Section 109(g), reduced stay protection under 362(c..." name="twitter:description"/>
+<meta content="Does a Dismissed Bankruptcy Affect My Job?" name="twitter:title"/>
+<meta content="Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C." name="twitter:description"/>
 <meta content="https://dismissedbankruptcy.org/og-image.svg" property="og:image"/>
 <meta content="https://dismissedbankruptcy.org/og-image.svg" name="twitter:image"/>
 <link href="/sitemap.xml" rel="sitemap" type="application/xml"/>
@@ -134,9 +134,9 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "My Bankruptcy Was Dismissed - Can I File Again?",
-  "description": "Your bankruptcy was dismissed and you want to refile. Learn about the 180-day bar under Section 109(g), reduced stay protection under 362(c)(3), and your options.",
-  "url": "https://dismissedbankruptcy.org/can-i-refile.html",
+  "name": "Does a Dismissed Bankruptcy Affect My Job?",
+  "description": "Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C. Section 525 against bankruptcy discrimination.",
+  "url": "https://dismissedbankruptcy.org/employer-impact.html",
   "inLanguage": "en",
   "isPartOf": {
     "@type": "WebSite",
@@ -146,7 +146,7 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
 }
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://dismissedbankruptcy.org/"},{"@type":"ListItem","position":2,"name":"Can I Refile?","item":"https://dismissedbankruptcy.org/can-i-refile.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://dismissedbankruptcy.org/"},{"@type":"ListItem","position":2,"name":"Employer Impact","item":"https://dismissedbankruptcy.org/employer-impact.html"}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
@@ -157,8 +157,8 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
   "@graph": [
     {
       "@type": "Article",
-      "headline": "My Bankruptcy Was Dismissed - Can I File Again?",
-      "description": "Your bankruptcy was dismissed and you want to refile. Learn about the 180-day bar under Section 109(g), reduced stay protection under 362(c)(3), and your option",
+      "headline": "Does a Dismissed Bankruptcy Affect My Job?",
+      "description": "Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C. Section 525 against bankruptcy discrimination.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -170,37 +170,16 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://dismissedbankruptcy.org/can-i-refile.html"
+      "mainEntityOfPage": "https://dismissedbankruptcy.org/employer-impact.html"
     }
   ]
 }
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "My Bankruptcy Was Dismissed - Can I File Again?", "acceptedAnswer": {"@type": "Answer", "text": "The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged."}}, {"@type": "Question", "name": "What is the automatic stay in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged."}}, {"@type": "Question", "name": "Can a creditor violate the automatic stay?", "acceptedAnswer": {"@type": "Answer", "text": "Creditors who violate the automatic stay can be held in contempt of court. You may recover actual damages, attorney fees, and in some cases punitive damages. Common violations include continued collection calls, repossessing property, or proceeding with a lawsuit after notice of the filing."}}, {"@type": "Question", "name": "How long does the automatic stay last?", "acceptedAnswer": {"@type": "Answer", "text": "The stay lasts until the bankruptcy case is closed, dismissed, or the debtor receives a discharge. If you filed a previous case that was dismissed within the past year, the stay may only last 30 days unless you file a motion to extend it."}}, {"@type": "Question", "name": "Does the automatic stay stop eviction?", "acceptedAnswer": {"@type": "Answer", "text": "The stay temporarily stops most evictions, but landlords can request relief from stay. If the landlord already obtained a judgment for possession before you filed, the stay may not apply at all. The protection is limited and temporary in most eviction situations."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Does Section 525 Apply to Dismissed Cases?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The statute protects anyone who \"is or has been a debtor\" in a bankruptcy case. A dismissed case means you were a debtor. The fact that the case was dismissed rather than discharged does not remove the protection."}}, {"@type": "Question", "name": "What Employers Can See?", "acceptedAnswer": {"@type": "Answer", "text": "That you filed for bankruptcy Which chapter you filed under Whether the case was dismissed or discharged The filing date"}}, {"@type": "Question", "name": "What Employers Cannot Legally Do?", "acceptedAnswer": {"@type": "Answer", "text": "Government employers: Cannot use bankruptcy as the sole basis for any employment decision, including hiring Private employers (current job): Cannot fire you solely because of the bankruptcy filing Any employer: Must comply with Fair Credit Reporting Act requirements - they must get your written..."}}]}
 </script>
-<link href="https://dismissedbankruptcy.org/can-i-refile.html" hreflang="en" rel="alternate"/>
-<link href="https://dismissedbankruptcy.org/can-i-refile-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://dismissedbankruptcy.org/employer-impact.html" hreflang="en" rel="alternate"/>
+<link href="https://dismissedbankruptcy.org/employer-impact-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -223,109 +202,117 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
 </div>
 </nav>
 <header>
-<h1>My Bankruptcy Was <span class="accent">Dismissed</span> - Can I File Again?</h1>
-<p class="subtitle">Understanding refiling restrictions after dismissal</p>
+<h1>Does a Dismissed Bankruptcy <span class="accent">Affect My Job</span>?</h1>
+<p class="subtitle">Employment protections, credit reports, and hiring discrimination</p>
 </header>
 <main id="main">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://dismissedbankruptcy.org/">Home</a><span class="separator">›</span><span>Can I Refile?</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://dismissedbankruptcy.org/">Home</a><span class="separator">›</span><span>Employer Impact</span></nav>
 <div class="disclaimer">
 <strong>Not legal advice.</strong> This site provides general educational information about bankruptcy law. Consult with a licensed attorney for advice about your specific situation.
 </div>
-<p>The short answer for most people is <span class="success">yes, you can <a href="https://canifileagain.org/" title="file bankruptcy again">file again</a></span>. But the details matter. Depending on why your case was dismissed and how recently, you may face a waiting period, and your new case may have reduced <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> protection. This guide walks you through all the rules.</p>
-<h2>The 180-Day Filing Bar - <a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a></h2>
-<p><a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g) of the Bankruptcy Code is the main statute that restricts refiling after a dismissal. It imposes a <span class="warning">180-day bar</span> in two specific situations:</p>
+<p>One of the most common fears people have after a bankruptcy dismissal is the impact on their job and future employment. The good news is that federal law provides significant protections against bankruptcy-related discrimination. The bad news is that a dismissed bankruptcy filing still appears on your credit report, and the protections have limits.</p>
+<h2>Section 525 - Bankruptcy Discrimination Protection</h2>
+<p>Section 525 of the Bankruptcy Code (11 U.S.C. Section 525) prohibits certain types of discrimination based solely on the fact that a person has filed for bankruptcy, been insolvent, or received a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
 <div class="card">
-<h3>109(g)(1) - Voluntary Dismissal After Stay Relief Motion</h3>
-<p>If your case was dismissed at your request (voluntary dismissal) <strong>after</strong> a creditor filed a <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Motion for Relief from Stay - Open Bankruptcy Project">motion for relief</a> from the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>, you cannot file a new bankruptcy case for 180 days. The purpose is to prevent "<a href="https://serialfiler.org/" title="serial filer">serial filing</a>" - repeatedly filing and dismissing cases solely to invoke the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> and stall creditors.</p>
-</div>
-<div class="card">
-<h3>109(g)(2) - Willful Failure to Comply</h3>
-<p>If the court dismissed your case because you willfully failed to abide by orders of the court, or you willfully failed to appear before the court in proper prosecution of the case, you cannot <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> for 180 days. The key word is "willful" - a <a href="https://chapter13plan.org/" title="good faith">good faith</a> mistake or an inability to comply (as opposed to a refusal to comply) generally does not trigger this bar.</p>
-</div>
-<h3>When the 180-Day Bar Does NOT Apply</h3>
-<p>The 180-day bar does <span class="highlight">not</span> apply to most dismissals. If your case was dismissed for any of these common reasons, you can typically refile immediately:</p>
+<h3>Section 525(a) - Government Employers</h3>
+<p>A governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant, and may not deny employment to, terminate the employment of, or discriminate with respect to employment against a person solely because that person:</p>
 <ul>
-<li>Failure to file schedules or statements on time (unless the court specifically found willful failure)</li>
-<li>Failure to make plan payments due to job loss or financial <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship</a></li>
-<li>Trustee motion to dismiss for plan feasibility issues</li>
-<li>Failure to pass the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> (you can refile under a different chapter)</li>
-<li>Missing the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> due to illness, emergency, or lack of notice</li>
-<li>Your attorney failed to file documents on your behalf</li>
+<li>Is or has been a debtor in a bankruptcy case</li>
+<li>Has been insolvent before or during the case</li>
+<li>Has not paid a debt that is dischargeable or was discharged</li>
 </ul>
-<p>Read the dismissal order carefully. If the court made a specific finding of willful failure, consult an attorney about your options. If the order does not contain such a finding, the 180-day bar likely does not apply.</p>
-<h2>Reduced Stay Protection - Section 362(c)(3)</h2>
-<p>Even if you can refile immediately, there is an important catch. <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(c)(3) provides that if you file a new case within <span class="warning">one year</span> of a prior dismissal, the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> in your new case expires after only 30 days unless you file a motion asking the court to extend it.</p>
-<p>This is a significant limitation. Here is what it means in practice:</p>
+<p>This protection applies to all government employers at the federal, state, and local level. It covers both current employment and hiring decisions.</p>
+</div>
+<div class="card">
+<h3>Section 525(b) - Private Employers</h3>
+<p>A private employer may not terminate the employment of, or discriminate with respect to employment against, an individual who is or has been a debtor in a bankruptcy case solely because of the bankruptcy filing.</p>
+<p><strong>Important limitation:</strong> Courts have generally interpreted Section 525(b) to protect <span class="highlight">existing employees</span> from termination but <span class="warning">not</span> job applicants from hiring discrimination. This means a private employer likely cannot fire you for filing bankruptcy, but may be able to decline to hire you based on it. This interpretation has been the subject of ongoing legal debate, and some courts have reached different conclusions.</p>
+</div>
+<h3>Does Section 525 Apply to Dismissed Cases?</h3>
+<p>Yes. The statute protects anyone who "is or has been a debtor" in a bankruptcy case. A dismissed case means you were a debtor. The fact that the case was dismissed rather than discharged does not remove the protection. You were a debtor from the moment the petition was filed until the case was closed.</p>
+<h2>Credit Report Impact</h2>
+<p>Even though Section 525 provides legal protections, the practical reality is that a bankruptcy filing appears on your credit report and may influence decisions made by employers, landlords, and creditors.</p>
 <table>
 <thead>
 <tr>
-<th scope="col">Scenario</th>
-<th scope="col"><a href="https://automaticstay.org/" title="automatic stay">Automatic Stay</a> Duration</th>
-<th scope="col">Action Required</th>
+<th scope="col">Factor</th>
+<th scope="col">Dismissed</th>
+<th scope="col">Discharged</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>First filing (no prior dismissals)</td>
-<td>Full duration of the case</td>
-<td>None</td>
+<td>Appears on credit report?</td>
+<td>Yes</td>
+<td>Yes</td>
 </tr>
 <tr>
-<td>Refile within 1 year of one dismissal</td>
-<td>30 days only</td>
-<td>File motion to extend stay within 30 days</td>
+<td>Duration (<a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>)</td>
+<td>10 years from filing</td>
+<td>10 years from filing</td>
 </tr>
 <tr>
-<td>Refile after 2+ dismissals in past year</td>
-<td>No stay at all</td>
-<td>File motion to impose stay</td>
+<td>Duration (<a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>)</td>
+<td>7 years from filing</td>
+<td>7 years from filing</td>
+</tr>
+<tr>
+<td>Debts eliminated?</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Credit score impact</td>
+<td>Negative (filing + unresolved debt)</td>
+<td>Negative initially, then improving</td>
 </tr>
 </tbody>
 </table>
-<h3>The 30-Day Stay Extension Motion</h3>
-<p>If Section 362(c)(3) applies to your new case, you must file a motion to extend the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> within the first 30 days. The court will grant the motion if you demonstrate that your new case was filed in <a href="https://chapter13plan.org/" title="good faith">good faith</a>. Factors the court considers include:</p>
+<p>The frustrating reality: a dismissed bankruptcy has a <span class="warning">worse long-term credit impact</span> than a discharged one. With a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, your debts are eliminated and you can begin rebuilding credit immediately. With a dismissal, you still carry all the debt plus the negative record of having filed. Your credit report shows both the filing and the ongoing delinquent accounts.</p>
+<h2>Background Checks and Hiring</h2>
+<p>Many employers run background checks that include credit history, particularly for positions involving financial responsibilities, security clearances, or access to sensitive information. Here is what they can and cannot do:</p>
+<h3>What Employers Can See</h3>
 <ul>
-<li>Whether the circumstances that led to the prior dismissal have changed</li>
-<li>Whether you have the ability to complete a plan this time</li>
-<li>Whether you are filing solely to delay creditors</li>
-<li>Whether your financial situation has genuinely changed since the last case</li>
+<li>That you filed for bankruptcy</li>
+<li>Which chapter you filed under</li>
+<li>Whether the case was dismissed or discharged</li>
+<li>The filing date</li>
 </ul>
-<p>If you do not file this motion within 30 days, the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> terminates automatically and cannot be reinstated. Your attorney should file this motion at the same time as the new petition or within the first few days of the case.</p>
-<h2>Section 362(c)(4) - No Stay at All</h2>
-<p>If you have had <span class="warning">two or more</span> bankruptcy cases pending and dismissed within the past year, Section 362(c)(4) provides that your new filing does not trigger the automatic stay at all. You must affirmatively ask the court to impose it, and the burden is on you to show good faith.</p>
-<p>This is rare but serious. If you are in this situation, you need an attorney to file the motion to impose the stay simultaneously with your petition.</p>
-<h2>Refiling in a Different Chapter</h2>
-<p>A dismissal does not lock you into the same chapter. If your <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> case was dismissed, you can refile under <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> (if you qualify under the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a>) or <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>. Similarly, a dismissed <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> can be refiled as Chapter 13.</p>
-<p>The refiling restrictions under Sections <a href="https://109g.org/" title="Section 109(g)">109(g)</a> and 362(c)(3) apply regardless of which chapter you choose. However, the <a href="https://1328f.com/check.html">discharge eligibility rules</a> under Sections <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> and <a href="https://727a8.com/" title="Section 727(a)(8)">727(a)(8)</a> only apply to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, not filing. Since a dismissed case did not result in a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, those discharge bars are not triggered by the prior case.</p>
-<p>For a comprehensive look at all the time bars across chapters, see the <a href="https://filebankruptcyagain.com">FileBankruptcyAgain.com</a> guide and the <a href="https://1328f.com/check.html">1328f.com eligibility screener</a>.</p>
-<h2>Strategic Considerations for Refiling</h2>
-<h3>Fix What Went Wrong</h3>
-<p>Before you refile, understand why your case was dismissed and fix the underlying problem. If you missed plan payments because the payment was too high, your new plan needs to be more realistic. If you failed to file documents, make sure everything is ready before you file. Filing again with the same problems will produce the same result.</p>
-<h3>Consider a Different Attorney</h3>
-<p>If your case was dismissed because your attorney missed deadlines, failed to file documents, or otherwise neglected your case, you should strongly consider hiring a different attorney. <a href="https://1328f.com/check.html">Check your attorney's track record</a> using public <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> data before hiring anyone.</p>
-<h3>Timing Matters</h3>
-<p>If you can wait more than one year after your dismissal to refile, you avoid the reduced stay protection under Section 362(c)(3) entirely. Your new case will have full automatic stay protection from day one. Weigh this benefit against the urgency of your situation.</p>
-<h3>Get Your Documents Ready First</h3>
-<p>One of the most common reasons for dismissal is failure to file required documents. Before you refile, gather everything you will need:</p>
+<h3>What Employers Cannot Legally Do</h3>
 <ul>
-<li>Last six months of pay stubs</li>
-<li>Last two years of tax returns</li>
-<li>List of all creditors with account numbers and balances</li>
-<li>Property valuations</li>
-<li><a href="https://bankruptcyfreshstart.org/" title="credit counseling">Credit counseling certificate</a> (must be completed within 180 days before filing)</li>
-<li>Monthly budget showing income and expenses</li>
+<li><strong>Government employers:</strong> Cannot use bankruptcy as the sole basis for any employment decision, including hiring</li>
+<li><strong>Private employers (current job):</strong> Cannot fire you solely because of the bankruptcy filing</li>
+<li><strong>Any employer:</strong> Must comply with Fair Credit Reporting Act requirements - they must get your written consent before pulling credit, and must give you a copy of the report and a chance to dispute it before taking adverse action</li>
 </ul>
-<h2>Quick Reference: Can I Refile?</h2>
+<h3>The Gray Area for Private Hiring</h3>
+<p>As noted above, many courts have held that Section 525(b) does not prevent private employers from refusing to hire based on a bankruptcy filing. If you are a job applicant and a private employer asks about bankruptcy or runs a credit check, the employer may legally consider it in their hiring decision in most jurisdictions.</p>
+<p>However, some states have enacted additional protections. For example, several states restrict when and how employers can use credit reports in hiring decisions. Check your state's laws for additional protections beyond the federal baseline.</p>
+<h2>Professional Licenses and Government Benefits</h2>
+<p>Section 525(a) broadly protects against discrimination by government units, which includes:</p>
+<ul>
+<li><strong>Professional licenses</strong> - bar admission, medical licenses, real estate licenses, and similar state-issued credentials cannot be denied solely based on bankruptcy</li>
+<li><strong>Government contracts</strong> - a government agency cannot refuse to do business with you solely because of a bankruptcy filing</li>
+<li><strong><a href="https://bankruptcystudentloans.org/" title="student loans">Student loans</a></strong> - the Department of Education cannot deny <a href="https://bankruptcystudentloans.org/" title="student loans">student loan</a> eligibility based on a prior bankruptcy</li>
+<li><strong>Public housing</strong> - a public housing authority cannot deny housing solely based on bankruptcy</li>
+<li><strong>Driver's license</strong> - cannot be revoked solely because of a bankrupted debt (relevant in some states that suspend licenses for unpaid judgments from accidents)</li>
+</ul>
+<h2>What You Can Do</h2>
 <div class="card">
-<p><strong>Dismissed for missing documents:</strong> <span class="success">Yes, usually immediately</span></p>
-<p><strong>Dismissed for missed plan payments:</strong> <span class="success">Yes, usually immediately</span></p>
-<p><strong>Voluntary dismissal after stay relief motion:</strong> <span class="warning">Wait 180 days</span></p>
-<p><strong>Court found willful failure to comply:</strong> <span class="warning">Wait 180 days</span></p>
-<p><strong>Refiling within 1 year of dismissal:</strong> <span class="highlight">Can file, but reduced stay - file extension motion immediately</span></p>
-<p style="margin-bottom:0"><strong>2+ dismissals in past year:</strong> <span class="warning">Can file, but no stay - must file motion to impose stay</span></p>
+<h3>Monitor Your Credit Reports</h3>
+<p>After dismissal, check all three credit reports (Equifax, Experian, TransUnion) to ensure the bankruptcy is reported accurately as "dismissed" rather than "discharged" or any other incorrect status. Dispute any errors under the Fair Credit Reporting Act. You can get free reports at annualcreditreport.com.</p>
 </div>
+<div class="card">
+<h3>Rebuild Your Credit</h3>
+<p>Since a dismissed bankruptcy leaves you with all your debt and a negative credit record, focus on stabilizing your finances. Pay down what you can, negotiate settlements where possible, and consider whether <a href="/can-i-refile.html">refiling for bankruptcy</a> would give you a better foundation for rebuilding.</p>
+</div>
+<div class="card">
+<h3>Know Your Rights</h3>
+<p>If you believe an employer terminated you or a government entity denied you a benefit solely because of your bankruptcy filing, consult with an employment attorney or consumer protection attorney. Section 525 violations are actionable, and you may be entitled to damages.</p>
+</div>
+<h2>The Bottom Line</h2>
+<p>A dismissed bankruptcy is an unfortunate outcome - you get the credit report hit without the debt relief. But federal law does provide meaningful protections against discrimination, especially from government employers and in maintaining your current employment. The most practical step you can take is to resolve the underlying debt situation, whether through <a href="/can-i-refile.html">refiling for bankruptcy</a>, negotiating with creditors, or other means described in our <a href="/what-happens-next.html">post-dismissal guide</a>.</p>
 <div class="disclaimer">
-<strong>Not legal advice.</strong> This guide is for general educational purposes only. Refiling restrictions depend on the specific facts of your case and the law in your jurisdiction. Consult with a licensed bankruptcy attorney before refiling. Nothing on this site creates an attorney-client relationship.
+<strong>Not legal advice.</strong> This guide is for general educational purposes only. Employment law varies significantly by state and jurisdiction. Consult with a licensed attorney for advice about your specific situation. Nothing on this site creates an attorney-client relationship.
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
@@ -334,7 +321,7 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
 <li><a href="https://bankruptcydismissed.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed - What Now?</a></li>
 <li><a href="https://canifileagain.org" style="color:#58a6ff;text-decoration:none">Can I File Bankruptcy Again?</a></li>
 <li><a href="https://filebankruptcyagain.org" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
-<li><a href="https://bankruptcydenied.com" style="color:#58a6ff;text-decoration:none">Bankruptcy Denied - Next Steps</a></li>
+<li><a href="https://109g.org" style="color:#58a6ff;text-decoration:none">Section 109(g) Filing Bar</a></li>
 </ul>
 </div>
 </main>
@@ -385,13 +372,13 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
 <!-- BTN:FOOTER:START -->
 <footer>
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
-<p>© 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p>© 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <div class="links">
 <a href="/">Home</a>
 <a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
+<a href="/can-i-refile.html">Can I Refile?</a>
 <a href="/reasons-for-dismissal.html">Why Cases Get Dismissed</a>
 <a href="/what-happens-next.html">What Happens Next</a>
-<a href="/employer-impact.html">Employer Impact</a>
 </div>
 <div class="network">
     Part of the <strong>Open Bankruptcy Project</strong>:
@@ -439,8 +426,8 @@ document.querySelector('.nav-toggle').addEventListener('click', function() {
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=dismissedbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=dismissedbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://relieffromstay.org/?utm_source=dismissedbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Relief from Automatic Stay</a> <span style="color:#7d8590;font-size:0.8rem">-- relieffromstay.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=dismissedbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 </ul>
 </div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
